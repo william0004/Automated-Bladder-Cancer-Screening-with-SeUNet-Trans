@@ -40,6 +40,7 @@ The focus is to deepen the understanding of segmentation techniques in image pro
 ```bash
 pip install opencv-python pandas numpy torchvision segmentation_models_pytorch \
 matplotlib seaborn scikit-image scipy tqdm Pillow scikit-learn torch
+```
 
 ---
 
