@@ -48,7 +48,3 @@ matplotlib seaborn scikit-image scipy tqdm Pillow scikit-learn torch
 This project is for educational and research purposes. Dataset used courtesy of Cedars-Sinai AI Campus.
 
 ---
-
-# Acknowledgements
-Special thanks to Cedars-Sinai AI Campus for their open-source dataset and baseline code.
-This project was developed as part of the course CSC 584 – Software Project Planning and Management and aims to contribute to research in AI-assisted medical diagnostics.
